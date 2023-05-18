@@ -1,4 +1,21 @@
+body {
+    background-color: beige;
+}
+
 .col {
     margin: 25px auto;
 }
 
+header h1 {
+    font-size: 3rem;
+    font-style: italic;
+    
+}
+
+.container-titulo {
+    padding: 20px 0 30px 0;
+    box-sizing: border-box;
+    margin: 50px 20%;
+    text-align: center;
+    background-color: rgb(108, 109, 153);
+}
