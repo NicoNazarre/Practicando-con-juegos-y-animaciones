@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background-color: #118ab2;
 }
 
 .col {
@@ -17,7 +17,53 @@ header h1 {
     box-sizing: border-box;
     margin: 50px 20%;
     text-align: center;
-    background-color: rgb(108, 109, 153);
+    background-color: #ffd166;
+    border: none;
+    border-radius: 24px;
+}
+
+.cajasProgramas {
+    padding: 40px;
+    background-color: #ef476f;
+    border: none;
+    border-radius: 24px;
+    margin: 20px;
+}
+
+.fotos-programas {
+    height: 400px;
+    width: 560px;
+}
+
+footer {
+    text-align: center;
+    background-color: #073b4c;
+    padding: 40px;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: 13px;
+    margin: 27px;
+
+}
+
+.container-footer {
+    display: flex;
+    justify-content: center;
+}
+
+.retrato {
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    margin: 20px;
+}
+
+.joystick {
+    height: 100px;
+    width: 100px;
+    margin-top: 53px;
 }
 
 
