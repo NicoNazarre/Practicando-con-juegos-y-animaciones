@@ -43,8 +43,8 @@ footer {
 
 .copyright {
     color: #ffffff;
-    font-size: 13px;
-    margin: 27px;
+    font-size: 18px;
+    margin: 32px;
 
 }
 
@@ -65,5 +65,14 @@ footer {
     width: 100px;
     margin-top: 53px;
 }
+
+.signo-contacto {
+    height: 170px;
+    width: 170px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+
 
 
